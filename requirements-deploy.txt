@@ -1,0 +1,13 @@
+Django==5.2.17
+djangorestframework==3.18.1
+django-cors-headers==4.9.0
+gunicorn
+python-dotenv
+tavily-python
+trafilatura
+langchain-groq
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers

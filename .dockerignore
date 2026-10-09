@@ -1,0 +1,12 @@
+.venv
+venv
+__pycache__
+*.pyc
+.git
+frontend/node_modules
+frontend/.next
+.env
+.env.*
+!.env.example
+chroma_db
+research_db
