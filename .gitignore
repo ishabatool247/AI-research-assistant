@@ -1,0 +1,28 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local data
+db.sqlite3
+research_db/
+chroma_db/
+reports/
+chat_history.json
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# OS
+.DS_Store
+Thumbs.db
